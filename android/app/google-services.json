@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267301766941",
+    "project_id": "employee-diary-292b2",
+    "storage_bucket": "employee-diary-292b2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267301766941:android:37f8b894fdf54f88f9c3f4",
+        "android_client_info": {
+          "package_name": "com.example.employee_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCeGENEath4n0QI7ve-hjAVHjzLuyJlH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
