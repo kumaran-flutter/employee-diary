@@ -1,16 +1,19 @@
-# employee_diary
+Employee Diary App
+Overview
+The Employee Diary app allows users to add, edit, and delete employee data with a smooth and intuitive UI. All data is stored locally using Hive for persistence. The app follows a pixel-perfect design and works seamlessly across all mobile screen resolutions.
 
-A new Flutter project.
+Features
+✅ Add, Edit, and Delete Employee Data
+✅ Hive Database for Local Storage
+✅ BLoC/Cubit for State Management
+✅ Date Picker as per Design
+✅ Fully Responsive & Pixel-Perfect UI
 
-## Getting Started
+Tech Stack
+Flutter (Dart)
 
-This project is a starting point for a Flutter application.
+State Management: BLoC/Cubit
 
-A few resources to get you started if this is your first Flutter project:
+Local Database: Hive
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI Framework: Material Design
